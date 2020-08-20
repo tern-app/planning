@@ -16,6 +16,9 @@ _Squad Leader:_ Hou Chia
 
 Tern is a to-do list app. As a user you can create to-do list items, view and organize them by priority, mark the tasks as complete, as well as editing, and deleting the items. The user can view a list of your completed to-do items.
 
+[This is the Backend repo+planning](https://github.com/tern-app/backend)
+[This is the Frontend repo+planning](https://github.com/tern-app/frontend)
+
 <br>
 <br>
 
