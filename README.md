@@ -46,9 +46,9 @@ Tern is a to-do list app. As a user you can create to-do list items, view and or
 
 ## Wireframes
 
-<img src="./images/wireframe-list-view-main.png" alt="Home view" width="400"/>
-<img src="./images/wireframe-list-view.png" alt="Home view" width="400"/>
-<img src="./images/wireframe-modal-view.png" alt="Home view" width="400"/>
+<img src="./images/wireframe-list-view-main.png" alt="Home view" width="400" border='2'/>
+<img src="./images/wireframe-list-view.png" alt="Home view" width="400" border='2'/>
+<img src="./images/wireframe-modal-view.png" alt="Home view" width="400" border='2'/>
 <br>
 <br>
 
@@ -98,4 +98,4 @@ We are building our own API with MongoDB, Mongoose and Express. The backend is d
 
 ## Request Response Cycle Diagram
 
-<img src="./images/tern-request-response-cycle-diagram.png" alt="Home view" width="400"/>
+<img src="./images/tern-request-response-cycle-diagram.png" alt="Home view" width="400" border='2'/>
