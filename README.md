@@ -46,9 +46,9 @@ Tern is a to-do list app. As a user you can create to-do list items, view and or
 
 ## Wireframes
 
-<img src="./images/wireframe-list-view-main.png" alt="Home view" width="400" border='2'/>
-<img src="./images/wireframe-list-view.png" alt="Home view" width="400" border='2'/>
-<img src="./images/wireframe-modal-view.png" alt="Home view" width="400" border='2'/>
+<img src="./images/wireframe-list-view-main.png" alt="Home view" width="400"/>
+<img src="./images/wireframe-list-view.png" alt="Home view" width="400"/>
+<img src="./images/wireframe-modal-view.png" alt="Home view" width="400"/>
 <br>
 <br>
 
@@ -58,14 +58,14 @@ Tern is a to-do list app. As a user you can create to-do list items, view and or
 <br>
 <br>
 
-| **Component** | **Description**                                       | **State/Props** |
-| ------------- | ----------------------------------------------------- | --------------- |
-| App           | This will handle React Router and call the components | State           |
-| SearchBar     | This will be used for searching through to-do's       | Props           |
-| TodoList      | This will render the list of to-do's                  | Props           |
-| Todo          | This will render the individual to-do                 | Props           |
-| Edit          | This will edit the to-do's properties                 | Props           |
-| Create        | This will create a new to-do                          | Props           |
+| **Component** | **Description**                                 | **State/Props** |
+| ------------- | ----------------------------------------------- | --------------- |
+| App           | This will handle React and call the components  | State           |
+| SearchBar     | This will be used for searching through to-do's | Props           |
+| TodoList      | This will render the list of to-do's            | Props           |
+| Todo          | This will render the individual to-do           | Props           |
+| Edit          | This will edit the to-do's properties           | Props           |
+| Create        | This will create a new to-do                    | Props           |
 
 <br>
 <br>
