@@ -1,6 +1,6 @@
 # Tern
 
-**Project 3 for GA's 622 cohort**
+### **Project 3 for GA's 622 cohort**
 
 **Team:**
 
@@ -10,7 +10,6 @@ Xavier Luján<br>
 Tabitha Perry<br>
 _Squad Leader:_ Hou Chia
 
-<br>
 <br>
 
 ## Project Description
@@ -25,7 +24,8 @@ Tern is a to-do list app. As a user you can create to-do list items, view and or
 ### MVP User Stories
 
 - As a user, I would like to add an item to my to do list
-- As a user, I would like to add a body, priority, location and due date -As a user, I would like to be able to mark a task as completed
+- As a user, I would like to add a body, priority, location and due date
+- As a user, I would like to be able to mark a task as completed
 - As a user, I would like to be able to see my completed tasks
 - As a user, I would like to delete a task
 - As a user, I want to edit my tasks
@@ -56,7 +56,7 @@ Tern is a to-do list app. As a user you can create to-do list items, view and or
 <br>
 
 | **Component** | **Description**                                       | **State/Props** |
-|---------------|-------------------------------------------------------|-----------------|
+| ------------- | ----------------------------------------------------- | --------------- |
 | App           | This will handle React Router and call the components | State           |
 | SearchBar     | This will be used for searching through to-do's       | Props           |
 | TodoList      | This will render the list of to-do's                  | Props           |
@@ -69,7 +69,7 @@ Tern is a to-do list app. As a user you can create to-do list items, view and or
 
 ## API
 
-We are building our own API with MongoDB, Mongoose and Express. The backend is deployed using AtlasDB and [Heroku](https://stark-depths-63601.herokuapp.com/). In order to maintain data consistency we developed a schema. This allows us to always save our data in the same format. Here's an example of how the data is returned:
+We are building our own API with MongoDB, Mongoose and Express. The backend is deployed using AtlasDB and [Heroku](https://stark-depths-63601.herokuapp.com/tasks/). In order to maintain data consistency we developed a schema. This allows us to always save our data in the same format. Here's an example of how the data is returned:
 
     {
     	"title": "First to-do",
