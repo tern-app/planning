@@ -16,7 +16,7 @@ _Squad Leader:_ Hou Chia
 
 Our team decided to create a to-do app. We wanted to have a place where we could add to-do items and be able to edit them and mark them as complete. We then though about adding a number value so we could prioritize items and give them a visual reference of the priority. Finally, we added a to-do view and a completed view, in order to only see relevant to-do's.
 
-We developed the app using MongoDB, Mongoose, Express and React, and are able to perform full CRUD operations to the database in order to add, edit and delete to-do items.
+We developed the app using MongoDB, Mongoose, Express, React and Node, and are able to perform full CRUD operations to the database in order to add, edit and delete to-do items.
 
 [This is the Backend repo+planning](https://github.com/tern-app/backend)<br>
 [This is the Frontend repo+planning](https://github.com/tern-app/frontend)
